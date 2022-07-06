@@ -3,9 +3,8 @@ h1, h2, p {
 }
 
 body {
-   /* background-color: burlywood; */
+   background-image: url(../images/background.jpeg)
 }
-
 .menu {
     width: 80%;
     background-color: burlywood;
