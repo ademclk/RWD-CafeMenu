@@ -7,6 +7,10 @@ body {
     background-image: url(../images/background.jpeg)
 }
 
+h1, h2 {
+    font-family: Impact;
+}
+
 .menu {
     width: 80%;
     max-width: 500px;
