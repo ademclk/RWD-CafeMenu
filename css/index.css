@@ -3,7 +3,8 @@ h1, h2, p {
 }
 
 body {
-   background-image: url(../images/background.jpeg)
+    font-family: sans-serif;
+    background-image: url(../images/background.jpeg)
 }
 
 .menu {
