@@ -4,7 +4,8 @@ h1, h2, p {
 
 body {
     font-family: sans-serif;
-    background-image: url(../images/background.jpeg)
+    background-image: url(../images/background.jpeg);
+    padding: 20px;
 }
 
 h1, h2 {
@@ -24,7 +25,9 @@ h2 {
 }
 
 hr {
-    height: 3px;
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
 }
 
 .menu {
