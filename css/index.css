@@ -23,6 +23,10 @@ h2 {
     font-style: italic;
 }
 
+hr {
+    height: 3px;
+}
+
 .menu {
     width: 80%;
     max-width: 500px;
