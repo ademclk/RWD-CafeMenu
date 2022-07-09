@@ -50,6 +50,7 @@ hr {
 }
 
 .item p {
+    font-size: 18px;
     display: inline-block;
     margin-top: 5px;
     margin-bottom: 5px;
