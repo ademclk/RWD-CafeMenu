@@ -20,7 +20,7 @@ h2 {
     font-size: 30px;
 }
 
-.established{
+.established {
     font-style: italic;
 }
 
@@ -62,6 +62,10 @@ hr {
 
 /*FOOTER*/
 
-footer{
+footer {
     font-size: 14px;
+}
+
+a {
+    color: black;
 }
